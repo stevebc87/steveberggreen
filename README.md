@@ -1,2 +1,2 @@
 # steveberggreen
-Repository for academic website
+Repository for my academic website
